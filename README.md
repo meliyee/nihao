@@ -1,8 +1,6 @@
 nihao
 =====
 
-Trying to figure out how github works
+Nihao = test lab
 
-Nihao is going to be my test lab
-
-More brain explosions :)
+Brain explosions
